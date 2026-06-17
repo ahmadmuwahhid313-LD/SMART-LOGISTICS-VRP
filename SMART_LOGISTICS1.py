@@ -1339,3 +1339,4 @@ st.markdown("---")
 st.caption(
     "SMART LOGISTICS SYSTEM"
 )
+
