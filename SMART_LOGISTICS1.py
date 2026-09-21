@@ -35,7 +35,7 @@ st.set_page_config(
 
 st.markdown("""
 <div class='big-title'>
-🚛 SMART LOGISTICS AI SYSTEM
+🚛 SMART LOGISTICS SYSTEM
 </div>
 
 <div class='sub-title'>
