@@ -1,0 +1,1384 @@
+[
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "plotly.graph_objects",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "plotly.graph_objects",
+        "description": "plotly.graph_objects",
+        "detail": "plotly.graph_objects",
+        "documentation": {}
+    },
+    {
+        "label": "folium",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "folium",
+        "description": "folium",
+        "detail": "folium",
+        "documentation": {}
+    },
+    {
+        "label": "st_folium",
+        "importPath": "streamlit_folium",
+        "description": "streamlit_folium",
+        "isExtraImport": true,
+        "detail": "streamlit_folium",
+        "documentation": {}
+    },
+    {
+        "label": "st_folium",
+        "importPath": "streamlit_folium",
+        "description": "streamlit_folium",
+        "isExtraImport": true,
+        "detail": "streamlit_folium",
+        "documentation": {}
+    },
+    {
+        "label": "st_folium",
+        "importPath": "streamlit_folium",
+        "description": "streamlit_folium",
+        "isExtraImport": true,
+        "detail": "streamlit_folium",
+        "documentation": {}
+    },
+    {
+        "label": "st_folium",
+        "importPath": "streamlit_folium",
+        "description": "streamlit_folium",
+        "isExtraImport": true,
+        "detail": "streamlit_folium",
+        "documentation": {}
+    },
+    {
+        "label": "st_folium",
+        "importPath": "streamlit_folium",
+        "description": "streamlit_folium",
+        "isExtraImport": true,
+        "detail": "streamlit_folium",
+        "documentation": {}
+    },
+    {
+        "label": "Packer",
+        "importPath": "py3dbp",
+        "description": "py3dbp",
+        "isExtraImport": true,
+        "detail": "py3dbp",
+        "documentation": {}
+    },
+    {
+        "label": "Bin",
+        "importPath": "py3dbp",
+        "description": "py3dbp",
+        "isExtraImport": true,
+        "detail": "py3dbp",
+        "documentation": {}
+    },
+    {
+        "label": "Item",
+        "importPath": "py3dbp",
+        "description": "py3dbp",
+        "isExtraImport": true,
+        "detail": "py3dbp",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "radians",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sin",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "cos",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sqrt",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "atan2",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "radians",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sin",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "cos",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sqrt",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "atan2",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "radians",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sin",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "cos",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sqrt",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "atan2",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "itertools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "itertools",
+        "description": "itertools",
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "permutations",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "permutations",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "routing_enums_pb2",
+        "importPath": "ortools.constraint_solver",
+        "description": "ortools.constraint_solver",
+        "isExtraImport": true,
+        "detail": "ortools.constraint_solver",
+        "documentation": {}
+    },
+    {
+        "label": "pywrapcp",
+        "importPath": "ortools.constraint_solver",
+        "description": "ortools.constraint_solver",
+        "isExtraImport": true,
+        "detail": "ortools.constraint_solver",
+        "documentation": {}
+    },
+    {
+        "label": "routing_enums_pb2",
+        "importPath": "ortools.constraint_solver",
+        "description": "ortools.constraint_solver",
+        "isExtraImport": true,
+        "detail": "ortools.constraint_solver",
+        "documentation": {}
+    },
+    {
+        "label": "pywrapcp",
+        "importPath": "ortools.constraint_solver",
+        "description": "ortools.constraint_solver",
+        "isExtraImport": true,
+        "detail": "ortools.constraint_solver",
+        "documentation": {}
+    },
+    {
+        "label": "pywrapcp",
+        "importPath": "ortools.constraint_solver",
+        "description": "ortools.constraint_solver",
+        "isExtraImport": true,
+        "detail": "ortools.constraint_solver",
+        "documentation": {}
+    },
+    {
+        "label": "routing_enums_pb2",
+        "importPath": "ortools.constraint_solver",
+        "description": "ortools.constraint_solver",
+        "isExtraImport": true,
+        "detail": "ortools.constraint_solver",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "haversine",
+        "kind": 2,
+        "importPath": "aplikasi-vrp",
+        "description": "aplikasi-vrp",
+        "peekOfCode": "def haversine(coord1, coord2):\n    R = 6371\n    lat1, lon1 = math.radians(coord1[0]), math.radians(coord1[1])\n    lat2, lon2 = math.radians(coord2[0]), math.radians(coord2[1])\n    dlat = lat2 - lat1\n    dlon = lon2 - lon1\n    a = math.sin(dlat/2)**2 + math.cos(lat1)*math.cos(lat2)*math.sin(dlon/2)**2\n    return R * 2 * math.asin(math.sqrt(a))\ndef build_distance_matrix(locations):\n    n = len(locations)",
+        "detail": "aplikasi-vrp",
+        "documentation": {}
+    },
+    {
+        "label": "build_distance_matrix",
+        "kind": 2,
+        "importPath": "aplikasi-vrp",
+        "description": "aplikasi-vrp",
+        "peekOfCode": "def build_distance_matrix(locations):\n    n = len(locations)\n    dist = np.zeros((n, n))\n    for i in range(n):\n        for j in range(n):\n            if i != j:\n                dist[i][j] = haversine(locations[i], locations[j])\n    return dist\ndef route_distance(route, dist_matrix):\n    if not route:",
+        "detail": "aplikasi-vrp",
+        "documentation": {}
+    },
+    {
+        "label": "route_distance",
+        "kind": 2,
+        "importPath": "aplikasi-vrp",
+        "description": "aplikasi-vrp",
+        "peekOfCode": "def route_distance(route, dist_matrix):\n    if not route:\n        return 0.0\n    d = dist_matrix[0][route[0]]\n    for i in range(len(route) - 1):\n        d += dist_matrix[route[i]][route[i+1]]\n    d += dist_matrix[route[-1]][0]\n    return d\n# ============================================================\n# HELPER - 3D BIN PACKING CHECK (INTEGRASI PENUH)",
+        "detail": "aplikasi-vrp",
+        "documentation": {}
+    },
+    {
+        "label": "check_3d_feasibility",
+        "kind": 2,
+        "importPath": "aplikasi-vrp",
+        "description": "aplikasi-vrp",
+        "peekOfCode": "def check_3d_feasibility(truck_cfg, assigned_customers, item_catalog):\n    \"\"\"\n    Cek apakah kumpulan pelanggan (assigned_customers) secara FISIK muat\n    dalam truck menggunakan 3D Bin Packing.\n    Mengembalikan (feasible: bool, packer result, used_volume, utilization%)\n    \"\"\"\n    packer = Packer()\n    packer.add_bin(Bin(\n        truck_cfg[\"name\"],\n        truck_cfg[\"width\"],",
+        "detail": "aplikasi-vrp",
+        "documentation": {}
+    },
+    {
+        "label": "two_opt",
+        "kind": 2,
+        "importPath": "aplikasi-vrp",
+        "description": "aplikasi-vrp",
+        "peekOfCode": "def two_opt(route, dist_matrix, max_iterations=100):\n    if len(route) < 4:\n        return route\n    best      = route[:]\n    best_dist = route_distance(best, dist_matrix)\n    improved  = True\n    iteration = 0\n    while improved and iteration < max_iterations:\n        improved  = False\n        iteration += 1",
+        "detail": "aplikasi-vrp",
+        "documentation": {}
+    },
+    {
+        "label": "solve_integrated",
+        "kind": 2,
+        "importPath": "aplikasi-vrp",
+        "description": "aplikasi-vrp",
+        "peekOfCode": "def solve_integrated(customers, item_catalog, truck_cfg, use_2opt=True):\n    \"\"\"\n    Nearest Neighbor CVRP dimana setiap assignment dicek oleh 3D Bin Packing.\n    Jika barang pelanggan tidak muat secara fisik, pelanggan dilewati dan\n    dimasukkan ke truck berikutnya.\n    \"\"\"\n    depot      = customers[0]  # index 0 = depot\n    unvisited  = set(range(1, len(customers)))\n    routes     = []\n    packing_results = []",
+        "detail": "aplikasi-vrp",
+        "documentation": {}
+    },
+    {
+        "label": "load_sample",
+        "kind": 2,
+        "importPath": "aplikasi-vrp",
+        "description": "aplikasi-vrp",
+        "peekOfCode": "def load_sample():\n    st.session_state.customers = [\n        {\"id\":\"C01\",\"name\":\"Toko A - Sudirman\",     \"lat\":-6.2076,\"lon\":106.8227},\n        {\"id\":\"C02\",\"name\":\"Toko B - Kemang\",        \"lat\":-6.2607,\"lon\":106.8136},\n        {\"id\":\"C03\",\"name\":\"Toko C - Kelapa Gading\", \"lat\":-6.1586,\"lon\":106.9054},\n        {\"id\":\"C04\",\"name\":\"Toko D - Tangerang\",     \"lat\":-6.1784,\"lon\":106.6319},\n        {\"id\":\"C05\",\"name\":\"Toko E - Bekasi\",        \"lat\":-6.2349,\"lon\":106.9896},\n    ]\n    st.session_state.item_catalog = {\n        \"C01\": [{\"name\":\"Box A\",\"width\":50,\"height\":40,\"depth\":70,\"weight\":5.0,\"qty\":3}],",
+        "detail": "aplikasi-vrp",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_CUSTOMERS",
+        "kind": 5,
+        "importPath": "aplikasi-vrp",
+        "description": "aplikasi-vrp",
+        "peekOfCode": "MAX_CUSTOMERS = 10  # Batas performa\n# ============================================================\n# HELPER - HAVERSINE\n# ============================================================\ndef haversine(coord1, coord2):\n    R = 6371\n    lat1, lon1 = math.radians(coord1[0]), math.radians(coord1[1])\n    lat2, lon2 = math.radians(coord2[0]), math.radians(coord2[1])\n    dlat = lat2 - lat1\n    dlon = lon2 - lon1",
+        "detail": "aplikasi-vrp",
+        "documentation": {}
+    },
+    {
+        "label": "defaults",
+        "kind": 5,
+        "importPath": "aplikasi-vrp",
+        "description": "aplikasi-vrp",
+        "peekOfCode": "defaults = {\n    \"customers\"  : [],\n    \"item_catalog\": {},   # {customer_id: [{name, width, height, depth, weight, qty}]}\n    \"solved\"     : False,\n    \"results\"    : None,\n    \"dist_matrix\": None,\n}\nfor k, v in defaults.items():\n    if k not in st.session_state:\n        st.session_state[k] = v",
+        "detail": "aplikasi-vrp",
+        "documentation": {}
+    },
+    {
+        "label": "COLORS",
+        "kind": 5,
+        "importPath": "aplikasi-vrp",
+        "description": "aplikasi-vrp",
+        "peekOfCode": "COLORS = [\"red\",\"blue\",\"green\",\"purple\",\"orange\",\"darkred\",\"darkblue\",\"darkgreen\",\"cadetblue\",\"pink\"]\nPLOTLY_COLORS = [\"#e74c3c\",\"#3498db\",\"#2ecc71\",\"#9b59b6\",\"#e67e22\",\n                 \"#c0392b\",\"#2980b9\",\"#27ae60\",\"#8e44ad\",\"#d35400\"]\n# ============================================================\n# STEP 1 — KONFIGURASI TRUCK\n# ============================================================\nst.header(\"🚛 Step 1: Konfigurasi Truck\")\ncol1, col2 = st.columns(2)\nwith col1:\n    st.subheader(\"Dimensi Truck (cm)\")",
+        "detail": "aplikasi-vrp",
+        "documentation": {}
+    },
+    {
+        "label": "PLOTLY_COLORS",
+        "kind": 5,
+        "importPath": "aplikasi-vrp",
+        "description": "aplikasi-vrp",
+        "peekOfCode": "PLOTLY_COLORS = [\"#e74c3c\",\"#3498db\",\"#2ecc71\",\"#9b59b6\",\"#e67e22\",\n                 \"#c0392b\",\"#2980b9\",\"#27ae60\",\"#8e44ad\",\"#d35400\"]\n# ============================================================\n# STEP 1 — KONFIGURASI TRUCK\n# ============================================================\nst.header(\"🚛 Step 1: Konfigurasi Truck\")\ncol1, col2 = st.columns(2)\nwith col1:\n    st.subheader(\"Dimensi Truck (cm)\")\n    truck_name       = st.text_input(\"Nama Truck\", value=\"Truck A\")",
+        "detail": "aplikasi-vrp",
+        "documentation": {}
+    },
+    {
+        "label": "truck_cfg",
+        "kind": 5,
+        "importPath": "aplikasi-vrp",
+        "description": "aplikasi-vrp",
+        "peekOfCode": "truck_cfg = {\n    \"name\"      : truck_name,\n    \"width\"     : truck_width,\n    \"height\"    : truck_height,\n    \"depth\"     : truck_depth,\n    \"max_weight\": truck_max_weight,\n}\n# ============================================================\n# STEP 2 — INPUT DEPOT & PELANGGAN\n# ============================================================",
+        "detail": "aplikasi-vrp",
+        "documentation": {}
+    },
+    {
+        "label": "depot_name",
+        "kind": 5,
+        "importPath": "aplikasi-vrp",
+        "description": "aplikasi-vrp",
+        "peekOfCode": "depot_name = c1.text_input(\"Nama Depot\", value=\"Depot Utama\")\ndepot_lat  = c2.number_input(\"Latitude Depot\",  value=-6.2088, format=\"%.6f\")\ndepot_lon  = c3.number_input(\"Longitude Depot\", value=106.8456, format=\"%.6f\")\nst.markdown(\"---\")\n# Tambah pelanggan\nn_custs = len(st.session_state.customers)\nst.subheader(f\"Tambah Pelanggan ({n_custs}/{MAX_CUSTOMERS})\")\nif n_custs >= MAX_CUSTOMERS:\n    st.warning(f\"🚫 Batas maksimal {MAX_CUSTOMERS} pelanggan sudah tercapai.\")\nelse:",
+        "detail": "aplikasi-vrp",
+        "documentation": {}
+    },
+    {
+        "label": "n_custs",
+        "kind": 5,
+        "importPath": "aplikasi-vrp",
+        "description": "aplikasi-vrp",
+        "peekOfCode": "n_custs = len(st.session_state.customers)\nst.subheader(f\"Tambah Pelanggan ({n_custs}/{MAX_CUSTOMERS})\")\nif n_custs >= MAX_CUSTOMERS:\n    st.warning(f\"🚫 Batas maksimal {MAX_CUSTOMERS} pelanggan sudah tercapai.\")\nelse:\n    with st.form(\"form_pelanggan\", clear_on_submit=True):\n        cc1, cc2, cc3 = st.columns(3)\n        cust_name = cc1.text_input(\"Nama Pelanggan\")\n        cust_lat  = cc2.number_input(\"Latitude\", value=-6.2000, format=\"%.6f\")\n        cust_lon  = cc3.number_input(\"Longitude\", value=106.8400, format=\"%.6f\")",
+        "detail": "aplikasi-vrp",
+        "documentation": {}
+    },
+    {
+        "label": "fleet",
+        "kind": 5,
+        "importPath": "SMART-LOAD",
+        "description": "SMART-LOAD",
+        "peekOfCode": "fleet = [\n    {\n        \"name\": \"Van\",\n        \"volume\": 10,\n        \"payload\": 1000,\n        \"cost\": 500000\n    },\n    {\n        \"name\": \"Truck CDE\",\n        \"volume\": 30,",
+        "detail": "SMART-LOAD",
+        "documentation": {}
+    },
+    {
+        "label": "jumlah_barang",
+        "kind": 5,
+        "importPath": "SMART-LOAD",
+        "description": "SMART-LOAD",
+        "peekOfCode": "jumlah_barang = st.number_input(\n    \"Jumlah Jenis Barang\",\n    min_value=1,\n    max_value=20,\n    value=3\n)\ndata_barang = []\nfor i in range(jumlah_barang):\n    st.markdown(f\"### Barang {i+1}\")\n    col1, col2, col3 = st.columns(3)",
+        "detail": "SMART-LOAD",
+        "documentation": {}
+    },
+    {
+        "label": "data_barang",
+        "kind": 5,
+        "importPath": "SMART-LOAD",
+        "description": "SMART-LOAD",
+        "peekOfCode": "data_barang = []\nfor i in range(jumlah_barang):\n    st.markdown(f\"### Barang {i+1}\")\n    col1, col2, col3 = st.columns(3)\n    with col1:\n        nama = st.text_input(\n            f\"Nama Barang {i+1}\",\n            value=f\"Barang {i+1}\"\n        )\n    with col2:",
+        "detail": "SMART-LOAD",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "SMART-LOAD",
+        "description": "SMART-LOAD",
+        "peekOfCode": "df = pd.DataFrame(data_barang)\ntotal_volume = df[\"Total Volume\"].sum()\ntotal_berat = df[\"Total Berat\"].sum()\n# =====================================================\n# REKOMENDASI ARMADA\n# =====================================================\nselected_truck = None\nfor truck in fleet:\n    if (\n        total_volume <= truck[\"volume\"]",
+        "detail": "SMART-LOAD",
+        "documentation": {}
+    },
+    {
+        "label": "total_volume",
+        "kind": 5,
+        "importPath": "SMART-LOAD",
+        "description": "SMART-LOAD",
+        "peekOfCode": "total_volume = df[\"Total Volume\"].sum()\ntotal_berat = df[\"Total Berat\"].sum()\n# =====================================================\n# REKOMENDASI ARMADA\n# =====================================================\nselected_truck = None\nfor truck in fleet:\n    if (\n        total_volume <= truck[\"volume\"]\n        and total_berat <= truck[\"payload\"]",
+        "detail": "SMART-LOAD",
+        "documentation": {}
+    },
+    {
+        "label": "total_berat",
+        "kind": 5,
+        "importPath": "SMART-LOAD",
+        "description": "SMART-LOAD",
+        "peekOfCode": "total_berat = df[\"Total Berat\"].sum()\n# =====================================================\n# REKOMENDASI ARMADA\n# =====================================================\nselected_truck = None\nfor truck in fleet:\n    if (\n        total_volume <= truck[\"volume\"]\n        and total_berat <= truck[\"payload\"]\n    ):",
+        "detail": "SMART-LOAD",
+        "documentation": {}
+    },
+    {
+        "label": "selected_truck",
+        "kind": 5,
+        "importPath": "SMART-LOAD",
+        "description": "SMART-LOAD",
+        "peekOfCode": "selected_truck = None\nfor truck in fleet:\n    if (\n        total_volume <= truck[\"volume\"]\n        and total_berat <= truck[\"payload\"]\n    ):\n        selected_truck = truck\n        break\n# =====================================================\n# HASIL",
+        "detail": "SMART-LOAD",
+        "documentation": {}
+    },
+    {
+        "label": "get_rotations",
+        "kind": 2,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "def get_rotations(item):\n    dims = [\n        item[\"length\"],\n        item[\"width\"],\n        item[\"height\"]\n    ]\n    return list(\n        set(permutations(dims))\n    )\n# =========================================================",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "check_collision",
+        "kind": 2,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "def check_collision(box1, box2):\n    return not (\n        box1[\"x\"] + box1[\"l\"] <= box2[\"x\"] or\n        box1[\"x\"] >= box2[\"x\"] + box2[\"l\"] or\n        box1[\"y\"] + box1[\"w\"] <= box2[\"y\"] or\n        box1[\"y\"] >= box2[\"y\"] + box2[\"w\"] or\n        box1[\"z\"] + box1[\"h\"] <= box2[\"z\"] or\n        box1[\"z\"] >= box2[\"z\"] + box2[\"h\"]\n    )\n# =========================================================",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_distance",
+        "kind": 2,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "def calculate_distance(\n    lat1,\n    lon1,\n    lat2,\n    lon2\n):\n    R = 6371\n    dlat = radians(lat2 - lat1)\n    dlon = radians(lon2 - lon1)\n    a = (",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "create_distance_matrix",
+        "kind": 2,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "def create_distance_matrix(customers):\n    locations = [\n        (\n            depot_lat,\n            depot_lon\n        )\n    ]\n    for c in customers:\n        locations.append(\n            (",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "try_pack_item",
+        "kind": 2,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "def try_pack_item(item, truck):\n    best_fit = None\n    best_score = float(\"inf\")\n    positions = [(0, 0, 0)]\n    # =====================================================\n    # EXTREME POINTS\n    # =====================================================\n    for existing in truck[\"items\"]:\n        positions.extend([\n            (",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "create_box",
+        "kind": 2,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "def create_box(item):\n    x = item[\"x\"]\n    y = item[\"y\"]\n    z = item[\"z\"]\n    l = item[\"l\"]\n    w = item[\"w\"]\n    h = item[\"h\"]\n    color = item[\"color\"]\n    vertices = np.array([\n        [x, y, z],",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "ROUTE_COLORS",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "ROUTE_COLORS = [\n    \"red\",\n    \"blue\",\n    \"green\",\n    \"orange\",\n    \"purple\",\n    \"black\"\n]\nfrom itertools import permutations\nfrom math import radians, sin, cos, sqrt, atan2",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "truck_length",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "truck_length = st.sidebar.number_input(\n    \"Truck Length (cm)\",\n    value=600\n)\ntruck_width = st.sidebar.number_input(\n    \"Truck Width (cm)\",\n    value=240\n)\ntruck_height = st.sidebar.number_input(\n    \"Truck Height (cm)\",",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "truck_width",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "truck_width = st.sidebar.number_input(\n    \"Truck Width (cm)\",\n    value=240\n)\ntruck_height = st.sidebar.number_input(\n    \"Truck Height (cm)\",\n    value=260\n)\nmax_trucks = st.sidebar.number_input(\n    \"Maximum Trucks\",",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "truck_height",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "truck_height = st.sidebar.number_input(\n    \"Truck Height (cm)\",\n    value=260\n)\nmax_trucks = st.sidebar.number_input(\n    \"Maximum Trucks\",\n    value=3\n)\ntarget_utilization = st.sidebar.slider(\n    \"Target Utilization (%)\",",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "max_trucks",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "max_trucks = st.sidebar.number_input(\n    \"Maximum Trucks\",\n    value=3\n)\ntarget_utilization = st.sidebar.slider(\n    \"Target Utilization (%)\",\n    70,\n    100,\n    95\n)",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "target_utilization",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "target_utilization = st.sidebar.slider(\n    \"Target Utilization (%)\",\n    70,\n    100,\n    95\n)\n# =========================================================\n# DEPOT CONFIG\n# =========================================================\nst.sidebar.header(\"🏭 Depot\")",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "depot_lat",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "depot_lat = st.sidebar.number_input(\n    \"Depot Latitude\",\n    value=-6.2615\n)\ndepot_lon = st.sidebar.number_input(\n    \"Depot Longitude\",\n    value=107.1520\n)\n# =========================================================\n# INPUT DATA",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "depot_lon",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "depot_lon = st.sidebar.number_input(\n    \"Depot Longitude\",\n    value=107.1520\n)\n# =========================================================\n# INPUT DATA\n# =========================================================\nst.header(\"📦 Goods Input\")\ndefault_data = pd.DataFrame({\n    \"Item\": [\"A\", \"B\", \"C\", \"D\"],",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "default_data",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "default_data = pd.DataFrame({\n    \"Item\": [\"A\", \"B\", \"C\", \"D\"],\n    \"Customer\": [\n        \"Customer 1\",\n        \"Customer 2\",\n        \"Customer 3\",\n        \"Customer 4\"\n    ],\n  \"Latitude\": [\n    -6.2088,   ",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "df = st.data_editor(\n    default_data,\n    num_rows=\"dynamic\",\n    use_container_width=True\n)\n# =========================================================\n# CREATE ITEMS\n# =========================================================\nitems = []\nfor _, row in df.iterrows():",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "items",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "items = []\nfor _, row in df.iterrows():\n    for i in range(int(row[\"Quantity\"])):\n        items.append({\n            \"id\": f\"{row['Item']}_{i}\",\n            \"name\": row[\"Item\"],\n            \"customer\": row[\"Customer\"],\n            \"latitude\": row[\"Latitude\"],\n            \"longitude\": row[\"Longitude\"],\n            \"length\": row[\"Length\"],",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "items",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "items = sorted(\n    items,\n    key=lambda x: x[\"volume\"],\n    reverse=True\n)\n# =========================================================\n# ROTATION FUNCTION\n# =========================================================\ndef get_rotations(item):\n    dims = [",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "truck_volume",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "truck_volume = (\n    truck_length *\n    truck_width *\n    truck_height\n)\ntrucks = []\nfor truck_id in range(max_trucks):\n    trucks.append({\n        \"id\": truck_id + 1,\n        \"items\": [],",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "trucks",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "trucks = []\nfor truck_id in range(max_trucks):\n    trucks.append({\n        \"id\": truck_id + 1,\n        \"items\": [],\n        \"used_volume\": 0,\n        \"total_weight\": 0,\n        \"customers\": [],\n        \"route\": []\n    })",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "unpacked",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "unpacked = []\n# =========================================================\n# PACKING FUNCTION\n# =========================================================\ndef try_pack_item(item, truck):\n    best_fit = None\n    best_score = float(\"inf\")\n    positions = [(0, 0, 0)]\n    # =====================================================\n    # EXTREME POINTS",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "active_truck_index",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "active_truck_index = 0\nfor item in items:\n    packed = False\n    while (\n        active_truck_index < len(trucks)\n    ):\n        truck = trucks[active_truck_index]\n        success = try_pack_item(\n            item,\n            truck",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "total_used",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "total_used = sum(\n    t[\"used_volume\"]\n    for t in trucks\n)\nfleet_utilization = (\n    total_used /\n    (\n        truck_volume *\n        max_trucks\n    )",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "fleet_utilization",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "fleet_utilization = (\n    total_used /\n    (\n        truck_volume *\n        max_trucks\n    )\n) * 100\nused_trucks = len([\n    t for t in trucks\n    if len(t[\"items\"]) > 0",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "used_trucks",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "used_trucks = len([\n    t for t in trucks\n    if len(t[\"items\"]) > 0\n])\nc1, c2, c3, c4 = st.columns(4)\ncol1, col2, col3, col4 = st.columns(4)\nwith col1:\n    st.markdown(f\"\"\"\n    <div class=\"metric-card\">\n        <div class=\"metric-value\">{used_trucks}</div>",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "route_points",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "route_points = []\n# Depot\nroute_points.append([depot_lat, depot_lon])\nfor customer in truck[\"route\"]:\n    route_points.append([\n        customer[\"lat\"],\n        customer[\"lon\"]\n    ])\n# Kembali ke depot\nroute_points.append([depot_lat, depot_lon])",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "center_lat",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "center_lat = np.mean([p[0] for p in route_points])\ncenter_lon = np.mean([p[1] for p in route_points])\nm = folium.Map(\n    location=[center_lat, center_lon],\n    zoom_start=12,\n    tiles=\"CartoDB Dark_Matter\"\n)\n# ==========================================\n# DEPOT MARKER\n# ==========================================",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "center_lon",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "center_lon = np.mean([p[1] for p in route_points])\nm = folium.Map(\n    location=[center_lat, center_lon],\n    zoom_start=12,\n    tiles=\"CartoDB Dark_Matter\"\n)\n# ==========================================\n# DEPOT MARKER\n# ==========================================\nfolium.Marker(",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "m",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "m = folium.Map(\n    location=[center_lat, center_lon],\n    zoom_start=12,\n    tiles=\"CartoDB Dark_Matter\"\n)\n# ==========================================\n# DEPOT MARKER\n# ==========================================\nfolium.Marker(\n    [depot_lat, depot_lon],",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "m",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "m = folium.Map(\n    location=[depot_lat, depot_lon],\n    )\n# =========================================================\n# 3D VISUALIZATION\n# =========================================================\nst.header(\"📦 3D Packing Visualization\")\navailable_trucks = [\n    t[\"id\"]\n    for t in trucks",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "available_trucks",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "available_trucks = [\n    t[\"id\"]\n    for t in trucks\n    if len(t[\"items\"]) > 0\n]\nif not available_trucks:\n    st.warning(\"No packed items\")\n    st.stop()\nselected_truck = st.selectbox(\n    \"Select Truck\",",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "selected_truck",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "selected_truck = st.selectbox(\n    \"Select Truck\",\n    available_trucks\n)\ntruck = trucks[selected_truck - 1]\nfig = go.Figure()\n# =========================================================\n# CONTAINER\n# =========================================================\ncontainer_vertices = np.array([",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "truck",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "truck = trucks[selected_truck - 1]\nfig = go.Figure()\n# =========================================================\n# CONTAINER\n# =========================================================\ncontainer_vertices = np.array([\n    [0, 0, 0],\n    [truck_length, 0, 0],\n    [truck_length, truck_width, 0],\n    [0, truck_width, 0],",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "fig",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "fig = go.Figure()\n# =========================================================\n# CONTAINER\n# =========================================================\ncontainer_vertices = np.array([\n    [0, 0, 0],\n    [truck_length, 0, 0],\n    [truck_length, truck_width, 0],\n    [0, truck_width, 0],\n    [0, 0, truck_height],",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "container_vertices",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "container_vertices = np.array([\n    [0, 0, 0],\n    [truck_length, 0, 0],\n    [truck_length, truck_width, 0],\n    [0, truck_width, 0],\n    [0, 0, truck_height],\n    [truck_length, 0, truck_height],\n    [truck_length, truck_width, truck_height],\n    [0, truck_width, truck_height]\n])",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "table_data",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "table_data = []\nfor t in trucks:\n    for item in t[\"items\"]:\n        table_data.append({\n            \"Truck\": t[\"id\"],\n            \"Customer\": item[\"customer\"],\n            \"Item\": item[\"name\"],\n            \"X\": item[\"x\"],\n            \"Y\": item[\"y\"],\n            \"Z\": item[\"z\"],",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "packing_df",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS",
+        "description": "SMART_LOGISTICS",
+        "peekOfCode": "packing_df = pd.DataFrame(\n    table_data\n)\nst.dataframe(\n    packing_df,\n    use_container_width=True\n)\n# =========================================================\n# EXECUTIVE SUMMARY\n# =========================================================",
+        "detail": "SMART_LOGISTICS",
+        "documentation": {}
+    },
+    {
+        "label": "get_rotations",
+        "kind": 2,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "def get_rotations(item):\n    dims = [\n        item[\"length\"],\n        item[\"width\"],\n        item[\"height\"]\n    ]\n    return list(\n        set(permutations(dims))\n    )\n# =========================================================",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "check_collision",
+        "kind": 2,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "def check_collision(box1, box2):\n    return not (\n        box1[\"x\"] + box1[\"l\"] <= box2[\"x\"] or\n        box1[\"x\"] >= box2[\"x\"] + box2[\"l\"] or\n        box1[\"y\"] + box1[\"w\"] <= box2[\"y\"] or\n        box1[\"y\"] >= box2[\"y\"] + box2[\"w\"] or\n        box1[\"z\"] + box1[\"h\"] <= box2[\"z\"] or\n        box1[\"z\"] >= box2[\"z\"] + box2[\"h\"]\n    )\n# =========================================================",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_distance",
+        "kind": 2,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "def calculate_distance(\n    lat1,\n    lon1,\n    lat2,\n    lon2\n):\n    R = 6371\n    dlat = radians(lat2 - lat1)\n    dlon = radians(lon2 - lon1)\n    a = (",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "create_distance_matrix",
+        "kind": 2,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "def create_distance_matrix(customers):\n    locations = [\n        (\n            depot_lat,\n            depot_lon\n        )\n    ]\n    for c in customers:\n        locations.append(\n            (",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "try_pack_item",
+        "kind": 2,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "def try_pack_item(item, truck):\n    best_fit = None\n    best_score = float(\"inf\")\n    positions = [(0, 0, 0)]\n    # =====================================================\n    # EXTREME POINTS\n    # =====================================================\n    for existing in truck[\"items\"]:\n        positions.extend([\n            (",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "create_box",
+        "kind": 2,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "def create_box(item):\n    x = item[\"x\"]\n    y = item[\"y\"]\n    z = item[\"z\"]\n    l = item[\"l\"]\n    w = item[\"w\"]\n    h = item[\"h\"]\n    color = item[\"color\"]\n    vertices = np.array([\n        [x, y, z],",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "ROUTE_COLORS",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "ROUTE_COLORS = [\n    \"red\",\n    \"blue\",\n    \"green\",\n    \"orange\",\n    \"purple\",\n    \"black\"\n]\nfrom itertools import permutations\nfrom math import radians, sin, cos, sqrt, atan2",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "truck_length",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "truck_length = st.sidebar.number_input(\n    \"Truck Length (cm)\",\n    value=600\n)\ntruck_width = st.sidebar.number_input(\n    \"Truck Width (cm)\",\n    value=240\n)\ntruck_height = st.sidebar.number_input(\n    \"Truck Height (cm)\",",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "truck_width",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "truck_width = st.sidebar.number_input(\n    \"Truck Width (cm)\",\n    value=240\n)\ntruck_height = st.sidebar.number_input(\n    \"Truck Height (cm)\",\n    value=260\n)\nmax_trucks = st.sidebar.number_input(\n    \"Maximum Trucks\",",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "truck_height",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "truck_height = st.sidebar.number_input(\n    \"Truck Height (cm)\",\n    value=260\n)\nmax_trucks = st.sidebar.number_input(\n    \"Maximum Trucks\",\n    value=3\n)\ntarget_utilization = st.sidebar.slider(\n    \"Target Utilization (%)\",",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "max_trucks",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "max_trucks = st.sidebar.number_input(\n    \"Maximum Trucks\",\n    value=3\n)\ntarget_utilization = st.sidebar.slider(\n    \"Target Utilization (%)\",\n    70,\n    100,\n    95\n)",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "target_utilization",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "target_utilization = st.sidebar.slider(\n    \"Target Utilization (%)\",\n    70,\n    100,\n    95\n)\n# =========================================================\n# DEPOT CONFIG\n# =========================================================\nst.sidebar.header(\"🏭 Depot\")",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "depot_lat",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "depot_lat = st.sidebar.number_input(\n    \"Depot Latitude\",\n    value=-6.2615\n)\ndepot_lon = st.sidebar.number_input(\n    \"Depot Longitude\",\n    value=107.1520\n)\n# =========================================================\n# INPUT DATA",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "depot_lon",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "depot_lon = st.sidebar.number_input(\n    \"Depot Longitude\",\n    value=107.1520\n)\n# =========================================================\n# INPUT DATA\n# =========================================================\nst.header(\"📦 Goods Input\")\ndefault_data = pd.DataFrame({\n    \"Item\": [\"A\", \"B\", \"C\", \"D\"],",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "default_data",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "default_data = pd.DataFrame({\n    \"Item\": [\"A\", \"B\", \"C\", \"D\"],\n    \"Customer\": [\n        \"Customer 1\",\n        \"Customer 2\",\n        \"Customer 3\",\n        \"Customer 4\"\n    ],\n  \"Latitude\": [\n    -6.2088,   ",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "df = st.data_editor(\n    default_data,\n    num_rows=\"dynamic\",\n    use_container_width=True\n)\n# =========================================================\n# CREATE ITEMS\n# =========================================================\nitems = []\nfor _, row in df.iterrows():",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "items",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "items = []\nfor _, row in df.iterrows():\n    for i in range(int(row[\"Quantity\"])):\n        items.append({\n            \"id\": f\"{row['Item']}_{i}\",\n            \"name\": row[\"Item\"],\n            \"customer\": row[\"Customer\"],\n            \"latitude\": row[\"Latitude\"],\n            \"longitude\": row[\"Longitude\"],\n            \"length\": row[\"Length\"],",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "items",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "items = sorted(\n    items,\n    key=lambda x: x[\"volume\"],\n    reverse=True\n)\n# =========================================================\n# ROTATION FUNCTION\n# =========================================================\ndef get_rotations(item):\n    dims = [",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "truck_volume",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "truck_volume = (\n    truck_length *\n    truck_width *\n    truck_height\n)\ntrucks = []\nfor truck_id in range(max_trucks):\n    trucks.append({\n        \"id\": truck_id + 1,\n        \"items\": [],",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "trucks",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "trucks = []\nfor truck_id in range(max_trucks):\n    trucks.append({\n        \"id\": truck_id + 1,\n        \"items\": [],\n        \"used_volume\": 0,\n        \"total_weight\": 0,\n        \"customers\": [],\n        \"route\": []\n    })",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "unpacked",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "unpacked = []\n# =========================================================\n# PACKING FUNCTION\n# =========================================================\ndef try_pack_item(item, truck):\n    best_fit = None\n    best_score = float(\"inf\")\n    positions = [(0, 0, 0)]\n    # =====================================================\n    # EXTREME POINTS",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "active_truck_index",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "active_truck_index = 0\nfor item in items:\n    packed = False\n    while (\n        active_truck_index < len(trucks)\n    ):\n        truck = trucks[active_truck_index]\n        success = try_pack_item(\n            item,\n            truck",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "total_used",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "total_used = sum(\n    t[\"used_volume\"]\n    for t in trucks\n)\nfleet_utilization = (\n    total_used /\n    (\n        truck_volume *\n        max_trucks\n    )",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "fleet_utilization",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "fleet_utilization = (\n    total_used /\n    (\n        truck_volume *\n        max_trucks\n    )\n) * 100\nused_trucks = len([\n    t for t in trucks\n    if len(t[\"items\"]) > 0",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "used_trucks",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "used_trucks = len([\n    t for t in trucks\n    if len(t[\"items\"]) > 0\n])\nc1, c2, c3, c4 = st.columns(4)\ncol1, col2, col3, col4 = st.columns(4)\nwith col1:\n    st.markdown(f\"\"\"\n    <div class=\"metric-card\">\n        <div class=\"metric-value\">{used_trucks}</div>",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "route_points",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "route_points = []\n# Depot\nroute_points.append([depot_lat, depot_lon])\nfor customer in truck[\"route\"]:\n    route_points.append([\n        customer[\"lat\"],\n        customer[\"lon\"]\n    ])\n# Kembali ke depot\nroute_points.append([depot_lat, depot_lon])",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "center_lat",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "center_lat = np.mean([p[0] for p in route_points])\ncenter_lon = np.mean([p[1] for p in route_points])\nm = folium.Map(\n    location=[center_lat, center_lon],\n    zoom_start=12,\n    tiles=\"CartoDB Dark_Matter\"\n)\n# ==========================================\n# DEPOT MARKER\n# ==========================================",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "center_lon",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "center_lon = np.mean([p[1] for p in route_points])\nm = folium.Map(\n    location=[center_lat, center_lon],\n    zoom_start=12,\n    tiles=\"CartoDB Dark_Matter\"\n)\n# ==========================================\n# DEPOT MARKER\n# ==========================================\nfolium.Marker(",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "m",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "m = folium.Map(\n    location=[center_lat, center_lon],\n    zoom_start=12,\n    tiles=\"CartoDB Dark_Matter\"\n)\n# ==========================================\n# DEPOT MARKER\n# ==========================================\nfolium.Marker(\n    [depot_lat, depot_lon],",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "m",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "m = folium.Map(\n    location=[depot_lat, depot_lon],\n    )\n# =========================================================\n# 3D VISUALIZATION\n# =========================================================\nst.header(\"📦 3D Packing Visualization\")\navailable_trucks = [\n    t[\"id\"]\n    for t in trucks",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "available_trucks",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "available_trucks = [\n    t[\"id\"]\n    for t in trucks\n    if len(t[\"items\"]) > 0\n]\nif not available_trucks:\n    st.warning(\"No packed items\")\n    st.stop()\nselected_truck = st.selectbox(\n    \"Select Truck\",",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "selected_truck",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "selected_truck = st.selectbox(\n    \"Select Truck\",\n    available_trucks\n)\ntruck = trucks[selected_truck - 1]\nfig = go.Figure()\n# =========================================================\n# CONTAINER\n# =========================================================\ncontainer_vertices = np.array([",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "truck",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "truck = trucks[selected_truck - 1]\nfig = go.Figure()\n# =========================================================\n# CONTAINER\n# =========================================================\ncontainer_vertices = np.array([\n    [0, 0, 0],\n    [truck_length, 0, 0],\n    [truck_length, truck_width, 0],\n    [0, truck_width, 0],",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "fig",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "fig = go.Figure()\n# =========================================================\n# CONTAINER\n# =========================================================\ncontainer_vertices = np.array([\n    [0, 0, 0],\n    [truck_length, 0, 0],\n    [truck_length, truck_width, 0],\n    [0, truck_width, 0],\n    [0, 0, truck_height],",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "container_vertices",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "container_vertices = np.array([\n    [0, 0, 0],\n    [truck_length, 0, 0],\n    [truck_length, truck_width, 0],\n    [0, truck_width, 0],\n    [0, 0, truck_height],\n    [truck_length, 0, truck_height],\n    [truck_length, truck_width, truck_height],\n    [0, truck_width, truck_height]\n])",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "table_data",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "table_data = []\nfor t in trucks:\n    for item in t[\"items\"]:\n        table_data.append({\n            \"Truck\": t[\"id\"],\n            \"Customer\": item[\"customer\"],\n            \"Item\": item[\"name\"],\n            \"X\": item[\"x\"],\n            \"Y\": item[\"y\"],\n            \"Z\": item[\"z\"],",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "packing_df",
+        "kind": 5,
+        "importPath": "SMART_LOGISTICS1",
+        "description": "SMART_LOGISTICS1",
+        "peekOfCode": "packing_df = pd.DataFrame(\n    table_data\n)\nst.dataframe(\n    packing_df,\n    use_container_width=True\n)\n# =========================================================\n# EXECUTIVE SUMMARY\n# =========================================================",
+        "detail": "SMART_LOGISTICS1",
+        "documentation": {}
+    },
+    {
+        "label": "haversine",
+        "kind": 2,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "def haversine(lat1, lon1, lat2, lon2):\n    R = 6371\n    dlat = radians(lat2 - lat1)\n    dlon = radians(lon2 - lon1)\n    a = (\n        sin(dlat / 2) ** 2\n        + cos(radians(lat1))\n        * cos(radians(lat2))\n        * sin(dlon / 2) ** 2\n    )",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "create_distance_matrix",
+        "kind": 2,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "def create_distance_matrix(dataframe):\n    locations = dataframe[[\"lat\", \"lon\"]].values\n    matrix = []\n    for from_node in locations:\n        row = []\n        for to_node in locations:\n            distance = haversine(\n                from_node[0],\n                from_node[1],\n                to_node[0],",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "solve_vrp",
+        "kind": 2,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "def solve_vrp(distance_matrix):\n    manager = pywrapcp.RoutingIndexManager(\n        len(distance_matrix),\n        1,\n        0\n    )\n    routing = pywrapcp.RoutingModel(manager)\n    def distance_callback(from_index, to_index):\n        from_node = manager.IndexToNode(from_index)\n        to_node = manager.IndexToNode(to_index)",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "uploaded_file",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "uploaded_file = st.sidebar.file_uploader(\n    \"Upload File CSV\",\n    type=[\"csv\"]\n)\nsample_data = pd.DataFrame({\n    \"nama\": [\"Depot\", \"Customer A\", \"Customer B\", \"Customer C\"],\n    \"lat\": [-6.200000, -6.210000, -6.220000, -6.215000],\n    \"lon\": [106.816666, 106.826666, 106.836666, 106.845000]\n})\nif uploaded_file:",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "sample_data",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "sample_data = pd.DataFrame({\n    \"nama\": [\"Depot\", \"Customer A\", \"Customer B\", \"Customer C\"],\n    \"lat\": [-6.200000, -6.210000, -6.220000, -6.215000],\n    \"lon\": [106.816666, 106.826666, 106.836666, 106.845000]\n})\nif uploaded_file:\n    df = pd.read_csv(uploaded_file)\nelse:\n    st.info(\"Menggunakan sample data\")\n    df = sample_data",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "distance_matrix",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "distance_matrix = create_distance_matrix(df)\n# =========================\n# OR-Tools Routing\n# =========================\ndef solve_vrp(distance_matrix):\n    manager = pywrapcp.RoutingIndexManager(\n        len(distance_matrix),\n        1,\n        0\n    )",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "route",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "route = solve_vrp(distance_matrix)\nst.subheader(\"Hasil Rute Optimasi\")\nst.write(route)\n# =========================\n# Folium Map\n# =========================\ncenter_lat = df[\"lat\"].mean()\ncenter_lon = df[\"lon\"].mean()\nm = folium.Map(\n    location=[center_lat, center_lon],",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "center_lat",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "center_lat = df[\"lat\"].mean()\ncenter_lon = df[\"lon\"].mean()\nm = folium.Map(\n    location=[center_lat, center_lon],\n    zoom_start=12\n)\n# Marker Lokasi\nfor idx, row in df.iterrows():\n    if idx == 0:\n        color = \"red\"",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "center_lon",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "center_lon = df[\"lon\"].mean()\nm = folium.Map(\n    location=[center_lat, center_lon],\n    zoom_start=12\n)\n# Marker Lokasi\nfor idx, row in df.iterrows():\n    if idx == 0:\n        color = \"red\"\n        icon = \"home\"",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "m",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "m = folium.Map(\n    location=[center_lat, center_lon],\n    zoom_start=12\n)\n# Marker Lokasi\nfor idx, row in df.iterrows():\n    if idx == 0:\n        color = \"red\"\n        icon = \"home\"\n    else:",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "route_coordinates",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "route_coordinates = []\nfor i in range(len(route) - 1):\n    start_node = route[i]\n    end_node = route[i + 1]\n    start_lat = df.iloc[start_node][\"lat\"]\n    start_lon = df.iloc[start_node][\"lon\"]\n    end_lat = df.iloc[end_node][\"lat\"]\n    end_lon = df.iloc[end_node][\"lon\"]\n    # API OSRM Gratis\n    url = (",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "total_distance",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "total_distance = 0\ntotal_duration = 0\nfor i in range(len(route) - 1):\n    start_node = route[i]\n    end_node = route[i + 1]\n    start_lat = df.iloc[start_node][\"lat\"]\n    start_lon = df.iloc[start_node][\"lon\"]\n    end_lat = df.iloc[end_node][\"lat\"]\n    end_lon = df.iloc[end_node][\"lon\"]\n    url = (",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "total_duration",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "total_duration = 0\nfor i in range(len(route) - 1):\n    start_node = route[i]\n    end_node = route[i + 1]\n    start_lat = df.iloc[start_node][\"lat\"]\n    start_lon = df.iloc[start_node][\"lon\"]\n    end_lat = df.iloc[end_node][\"lat\"]\n    end_lon = df.iloc[end_node][\"lon\"]\n    url = (\n        f\"http://router.project-osrm.org/route/v1/driving/\"",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "km_distance",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "km_distance = total_distance / 1000\nminute_duration = total_duration / 60\nhour_duration = minute_duration / 60\nst.subheader(\"Total Jarak\")\nst.write(f\"{km_distance:.2f} KM\")\nst.subheader(\"Total Waktu Tempuh\")\nif hour_duration >= 1:\n    st.write(f\"{hour_duration:.2f} Jam\")\nelse:\n    st.write(f\"{minute_duration:.2f} Menit\")",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "minute_duration",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "minute_duration = total_duration / 60\nhour_duration = minute_duration / 60\nst.subheader(\"Total Jarak\")\nst.write(f\"{km_distance:.2f} KM\")\nst.subheader(\"Total Waktu Tempuh\")\nif hour_duration >= 1:\n    st.write(f\"{hour_duration:.2f} Jam\")\nelse:\n    st.write(f\"{minute_duration:.2f} Menit\")\n# =========================",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "hour_duration",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "hour_duration = minute_duration / 60\nst.subheader(\"Total Jarak\")\nst.write(f\"{km_distance:.2f} KM\")\nst.subheader(\"Total Waktu Tempuh\")\nif hour_duration >= 1:\n    st.write(f\"{hour_duration:.2f} Jam\")\nelse:\n    st.write(f\"{minute_duration:.2f} Menit\")\n# =========================\n# Detail Perjalanan",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "travel_data",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "travel_data = []\nfor i in range(len(route) - 1):\n    start_node = route[i]\n    end_node = route[i + 1]\n    start_name = df.iloc[start_node]['nama']\n    end_name = df.iloc[end_node]['nama']\n    start_lat = df.iloc[start_node]['lat']\n    start_lon = df.iloc[start_node]['lon']\n    end_lat = df.iloc[end_node]['lat']\n    end_lon = df.iloc[end_node]['lon']",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "travel_df",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "travel_df = pd.DataFrame(travel_data)\nst.dataframe(travel_df)\nimport streamlit as st\nimport pandas as pd\nimport folium\nfrom streamlit_folium import st_folium\n# =====================================\n# CONFIG\n# =====================================\nst.set_page_config(",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "menu",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "menu = st.sidebar.radio(\n    \"Menu\",\n    [\n        \"Dashboard\",\n        \"Routing Optimization\",\n        \"Live Map\",\n        \"Analytics\",\n        \"Settings\"\n    ]\n)",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "uploaded_file",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "uploaded_file = st.sidebar.file_uploader(\n    \"Upload Customer Data\",\n    type=[\"csv\", \"xlsx\"]\n)\nvehicle_count = st.sidebar.number_input(\n    \"Jumlah Kendaraan\",\n    min_value=1,\n    value=3\n)\noptimize_button = st.sidebar.button(\"🚀 Optimize Route\")",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "vehicle_count",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "vehicle_count = st.sidebar.number_input(\n    \"Jumlah Kendaraan\",\n    min_value=1,\n    value=3\n)\noptimize_button = st.sidebar.button(\"🚀 Optimize Route\")\ncol1, col2, col3s, col4 = st.columns(4)\nwith col1:\n    st.markdown(\n        \"\"\"",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "optimize_button",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "optimize_button = st.sidebar.button(\"🚀 Optimize Route\")\ncol1, col2, col3s, col4 = st.columns(4)\nwith col1:\n    st.markdown(\n        \"\"\"\n        <div class=\"kpi-card\">\n            <h4>🚚 Total Kendaraan</h4>\n            <h1>12</h1>\n            <p>Armada Aktif</p>\n        </div>",
+        "detail": "vrp",
+        "documentation": {}
+    },
+    {
+        "label": "trip_data",
+        "kind": 5,
+        "importPath": "vrp",
+        "description": "vrp",
+        "peekOfCode": "trip_data = pd.DataFrame({\n    \"Dari\": [\"Depot\", \"Customer A\"],\n    \"Ke\": [\"Customer A\", \"Customer B\"],\n    \"Jarak (KM)\": [5.2, 3.1],\n    \"Waktu (Menit)\": [12, 8]\n})\nst.dataframe(trip_data, use_container_width=True)\n# =====================================\n# FOOTER\n# =====================================",
+        "detail": "vrp",
+        "documentation": {}
+    }
+]
